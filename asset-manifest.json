@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tute/static/css/main.f612f6a5.chunk.css",
+    "main.js": "/react-tute/static/js/main.847d12fa.chunk.js",
+    "main.js.map": "/react-tute/static/js/main.847d12fa.chunk.js.map",
+    "runtime~main.js": "/react-tute/static/js/runtime~main.81e717b5.js",
+    "runtime~main.js.map": "/react-tute/static/js/runtime~main.81e717b5.js.map",
+    "static/js/2.86a2265c.chunk.js": "/react-tute/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/react-tute/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/react-tute/index.html",
+    "precache-manifest.e2c09709c4cbbd96f1c8e500e8b2caa4.js": "/react-tute/precache-manifest.e2c09709c4cbbd96f1c8e500e8b2caa4.js",
+    "service-worker.js": "/react-tute/service-worker.js",
+    "static/css/main.f612f6a5.chunk.css.map": "/react-tute/static/css/main.f612f6a5.chunk.css.map"
+  }
+}
